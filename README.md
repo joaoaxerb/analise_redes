@@ -4,7 +4,7 @@ Este é um dashboard baseado na web para analisar dados de comunicação de rede
 
 ## Instalação
 ### Pré-requisitos:
-- Python 3.x
+- Python 3.9
 - pip (instalador de pacotes do Python)
 - Configurar Ambiente Virtual
 
